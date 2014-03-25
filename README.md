@@ -11,3 +11,5 @@ What you should see in files
 2) protected/controllers/AccountController.php lines 16-26
 
 3) protected/models/Users.php lines 39-41
+
+I hope that you understand all changes in this lines :) Good luck!
